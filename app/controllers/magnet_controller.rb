@@ -5,13 +5,29 @@ class MagnetController < ApplicationController
 
   end
 
-  private
-  def set_images
+  def upload
+    @selected_images = params[:user][:selected_image_id]
+    #save it in store table
+    @selected_images.each do |imageId|
+      if imageId!="0"
+        store = Store.new
+        store.Image_id = imageId
+        store.user_id = session[:user]["id"]
+        store.save
+      end
+    end
 
-    @images = HTTP.get('https://api.instagram.com/v1/users/self/media/recent/?access_token='+ session[:access_token]).body
-    
+    #redirect to checkout page
+    #add minimum cap of 8 images
   end
 
+  private
+  def set_images
+    @response = []
+    @response.push(Image.find_by(user_id:session[:user]["id"]))
+  end
 
-
+  def set_params
+    params.permit(:selected_image_id,session[:user])
+  end
 end

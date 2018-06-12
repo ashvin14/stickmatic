@@ -5,8 +5,18 @@ class CallbacksController < Devise::OmniauthCallbacksController
     @user = User.from_omniauth(request.env["omniauth.auth"])
     session[:user] = @user
     session[:access_token] = request.env["omniauth.auth"]["credentials"]["token"]
-    redirect_to  magnets_upload_path
 
+
+    if Image.find_by(user:@user).nil?
+      @images = HTTP.get('https://api.instagram.com/v1/users/self/media/recent/?access_token='+ session[:access_token]).parse["data"]
+
+      @images.each do |image|
+        Image.create(url:image["images"]["thumbnail"]["url"],user:@user)
+      end
+    end
+
+    
+    redirect_to  magnets_upload_path
   end
 
 
