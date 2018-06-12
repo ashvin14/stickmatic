@@ -1,0 +1,10 @@
+
+<div class="container">
+  <div class="jumbotron">
+    <%- if devise_mapping.omniauthable? %>
+      <%- resource_class.omniauth_providers.each do |provider| %>
+      <%= button_to  "Sign in with #{OmniAuth::Utils.camelize(provider)}", user_instagram_omniauth_authorize_path(resource_name, provider), {:style=>'color:#FFFFFF;', :class => "btn btn-lg btn-primary col-md-offset-4 btn-instagram"}%><br />
+       <% end -%>
+    <% end -%>
+  </div>
+</div>
