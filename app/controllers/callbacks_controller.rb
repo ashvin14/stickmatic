@@ -6,7 +6,6 @@ class CallbacksController < Devise::OmniauthCallbacksController
     session[:user] = @user
     session[:access_token] = request.env["omniauth.auth"]["credentials"]["token"]
 
-
     if Image.find_by(user:@user).nil?
       @images = HTTP.get('https://api.instagram.com/v1/users/self/media/recent/?access_token='+ session[:access_token]).parse["data"]
 
@@ -15,10 +14,14 @@ class CallbacksController < Devise::OmniauthCallbacksController
       end
     end
 
-    
-    redirect_to  magnets_upload_path
-  end
+    if @user.persisted?
+      sign_in @user
+      redirect_to magnets_upload_path
+    else
+      failure
+    end
 
+  end
 
 
   def failure

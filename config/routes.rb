@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   
   devise_for :users, :controllers =>{
     :omniauth_callbacks => "callbacks"
+    
   }
 
   
@@ -11,7 +12,7 @@ Rails.application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
-  root "landing_page#index"
+  root "magnet#gallery"
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
   get '/magnets/upload' => 'magnet#gallery'
@@ -32,6 +33,7 @@ Rails.application.routes.draw do
   #       get 'sold'
   #     end
   #   end
+  get "/checkout" => "checkout#index"
 
   # Example resource route with sub-resources:
   #   resources :products do

@@ -1,7 +1,9 @@
 <nav class="navbar navbar-inverse navbar-default">
   <div class="container">
+    
     <% if user_signed_in? %>
-     <button class="btn btn-danger pull-right">Log out</button>    
-   <% end %>
+    
+        <%= button_to "Log out",destroy_user_session_path,{class:"btn btn-danger pull-right",method: :delete}%>   
+     <% end %>
   </div>
 </nav>
