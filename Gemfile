@@ -31,7 +31,6 @@ gem 'pg','~> 0.18'
 
 
 # gem 'bcrypt', '~> 3.1.7'
-  
 # Use Unicorn as the app server
 # gem 'unicorn'
 # Use Capistrano for deployment
