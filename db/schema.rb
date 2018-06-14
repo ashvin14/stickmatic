@@ -13,6 +13,9 @@
 
 ActiveRecord::Schema.define(version: 20180612111247) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "images", force: :cascade do |t|
     t.string   "url"
     t.integer  "user_id"
@@ -20,7 +23,7 @@ ActiveRecord::Schema.define(version: 20180612111247) do
     t.datetime "updated_at", null: false
   end
 
-  add_index "images", ["user_id"], name: "index_images_on_user_id"
+  add_index "images", ["user_id"], name: "index_images_on_user_id", using: :btree
 
   create_table "stores", force: :cascade do |t|
     t.integer  "Image_id"
@@ -29,8 +32,8 @@ ActiveRecord::Schema.define(version: 20180612111247) do
     t.datetime "updated_at", null: false
   end
 
-  add_index "stores", ["Image_id"], name: "index_stores_on_Image_id"
-  add_index "stores", ["user_id"], name: "index_stores_on_user_id"
+  add_index "stores", ["Image_id"], name: "index_stores_on_Image_id", using: :btree
+  add_index "stores", ["user_id"], name: "index_stores_on_user_id", using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: ""
@@ -49,7 +52,7 @@ ActiveRecord::Schema.define(version: 20180612111247) do
     t.string   "provider"
   end
 
-  add_index "users", ["email"], name: "index_users_on_email", unique: true
-  add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
+  add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
+  add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
 
 end
