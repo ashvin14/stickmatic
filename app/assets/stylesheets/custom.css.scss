@@ -2,3 +2,22 @@
 
 @import "bootstrap";
 
+.center {
+    text-align: center;
+}
+
+.instagram-frame {
+    border: #d7d7d7 solid;
+    background-color: white;
+    margin-bottom: 4%;
+    padding: 2%;
+    margin: 0% 5% 5% 5%;
+    padding: 4%;
+}
+
+.single-image {
+    padding: 2%;
+    border: #f1f1f1 1px solid;
+    display:inline-block;
+    float:left
+}

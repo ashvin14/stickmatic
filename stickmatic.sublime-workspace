@@ -1,0 +1,1044 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"destr",
+				"destroy_user_session_path"
+			],
+			[
+				"selecte",
+				"selected_images"
+			],
+			[
+				"selected",
+				"selected_image_id"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"APP",
+				"APP_CLIENT_SECRET"
+			],
+			[
+				"AP",
+				"APP_CLIENT_ID"
+			],
+			[
+				"Acti",
+				"ActiveRecord\t(20180606103508_create_users.rb)"
+			],
+			[
+				"permsi",
+				"permissions"
+			],
+			[
+				"collection",
+				"collection-item"
+			],
+			[
+				"redirectT",
+				"redirectToFarmer"
+			],
+			[
+				"cso",
+				"cost"
+			],
+			[
+				"singleProdu",
+				"singleProduceService"
+			],
+			[
+				"singlePr",
+				"singleProduceService"
+			],
+			[
+				"sing",
+				"singleProuceService"
+			],
+			[
+				"Succ",
+				"SuccessText\t(authService.jsx)"
+			],
+			[
+				"produce",
+				"produceService"
+			],
+			[
+				"postSer",
+				"postServiceApi\t(produceUpload.jsx)"
+			],
+			[
+				"produc",
+				"produceService"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"onCrop",
+				"onCropTypeChange"
+			],
+			[
+				"fucntio",
+				"functionName"
+			],
+			[
+				"hadn",
+				"handleSubmit"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Api",
+				"ApiMiddleware"
+			],
+			[
+				"findOneAnd",
+				"findOneAndEdit\t(farmerProtected.js)"
+			],
+			[
+				"delet",
+				"deletedUser"
+			],
+			[
+				"transactions",
+				"transactions"
+			],
+			[
+				"transaction",
+				"transactionSchema"
+			],
+			[
+				"total_Cou",
+				"total_courts_booked"
+			],
+			[
+				"Fuc",
+				"FunctionToCheckAdmin\t(adminAuth.js)"
+			],
+			[
+				"getAll",
+				"getAllCourtsByParticularAdmin"
+			],
+			[
+				"booked",
+				"booked_time_slot\t(paymentModel.js)"
+			],
+			[
+				"response",
+				"responseGenerator"
+			],
+			[
+				"getOne",
+				"getOnePaymentAndUpdate"
+			],
+			[
+				"functionToCh",
+				"functionToCheckIfCourtTimingsAreInSyncWithRequest"
+			],
+			[
+				"endTi",
+				"endTimingObject"
+			],
+			[
+				"payemnt",
+				"payment"
+			],
+			[
+				"object",
+				"objectId"
+			],
+			[
+				"funct",
+				"functionToCreateDirectory"
+			],
+			[
+				"image",
+				"imageName"
+			],
+			[
+				"vali",
+				"validationFailedError"
+			],
+			[
+				"err",
+				"error\t: DOMError FileReader"
+			],
+			[
+				"findOneA",
+				"findOneAndDeleteUser\t(userAuth.js)"
+			],
+			[
+				"imgae",
+				"imagePath"
+			],
+			[
+				"clsa",
+				"className"
+			],
+			[
+				"with",
+				"withRouter"
+			],
+			[
+				"getVenu",
+				"getVenueImages\t(VenueService.jsx)"
+			],
+			[
+				"mater",
+				"materialize-css\t(Index.jsx)"
+			],
+			[
+				"access",
+				"accessories\t(VenueAdd.jsx)"
+			],
+			[
+				"sin",
+				"singleVenueReducer\t(singleVenueReducer.jsx)"
+			],
+			[
+				"uni",
+				"uniqueValidator"
+			],
+			[
+				"consol",
+				"console.\tconsole.profileEnd()"
+			],
+			[
+				"cours",
+				"courtsDescription"
+			],
+			[
+				"objec",
+				"objectId"
+			],
+			[
+				"cosn",
+				"console.\tconsole.log()"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName"
+			],
+			[
+				"conso",
+				"console.\tconsole.log()"
+			],
+			[
+				"ass",
+				"assignTime"
+			],
+			[
+				"targ",
+				"target\t: EventTarget Event"
+			],
+			[
+				"timeSe",
+				"timeSelectDrag"
+			],
+			[
+				"timeS",
+				"timeSelectDrag"
+			],
+			[
+				"Obje",
+				"ObjectId"
+			],
+			[
+				"reviw",
+				"reviewSchema"
+			],
+			[
+				"jwt",
+				"jwtAuth"
+			],
+			[
+				"getSer",
+				"getServiceApi"
+			],
+			[
+				"autho",
+				"authorizationHeader"
+			],
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"patient",
+				"patientList"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"user",
+				"userAuth"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"contor",
+				"controllerAs"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sl",
+				"solution"
+			],
+			[
+				"totl",
+				"totalCorrectAnswered"
+			],
+			[
+				"rs",
+				"result"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"questi",
+				"question_id"
+			],
+			[
+				"sco",
+				"socket"
+			],
+			[
+				"Ques",
+				"questionModel"
+			],
+			[
+				"tse",
+				"test_end_time"
+			],
+			[
+				"end",
+				"test_end_time"
+			],
+			[
+				"return",
+				"returnCurrentTime"
+			],
+			[
+				"v",
+				"variable"
+			],
+			[
+				"timer",
+				"timer_time"
+			],
+			[
+				"time",
+				"time_in_seconds"
+			],
+			[
+				"modal",
+				"modal-trigger"
+			],
+			[
+				"mdo",
+				"modal-trigger"
+			],
+			[
+				"ot",
+				"option2"
+			],
+			[
+				"Er",
+				"error"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"control",
+				"controllerAs"
+			],
+			[
+				"h6",
+				"h6\tTag"
+			],
+			[
+				"phon",
+				"phone_no"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"call",
+				"callbackURL_google"
+			],
+			[
+				"cal",
+				"callBackURL_facebook"
+			],
+			[
+				"FACEB",
+				"FACEBOOOK_CLIENT_SECRET"
+			],
+			[
+				"Q",
+				"Query_details"
+			],
+			[
+				"htl",
+				"html_discussion_message"
+			],
+			[
+				"query",
+				"query_id"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"stat",
+				"statusLogin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"evn",
+				"eventEmitter"
+			],
+			[
+				"FUnction",
+				"FunctionToSendEmail"
+			],
+			[
+				"Quer",
+				"Query_title"
+			],
+			[
+				"functionTo",
+				"functionToGetQueryById"
+			],
+			[
+				"Query",
+				"Query_id"
+			],
+			[
+				"disc",
+				"discussion_message"
+			],
+			[
+				"diss",
+				"discussion_message"
+			],
+			[
+				"FUnctionTo",
+				"FunctionToReturnQuery"
+			],
+			[
+				"discs",
+				"discussionCollection"
+			],
+			[
+				"dissc",
+				"discussionCollection"
+			],
+			[
+				"Fun",
+				"FunctionToChooseEmailFromTemplates"
+			],
+			[
+				"FU",
+				"FunctionToChooseEmailFromTemplates"
+			],
+			[
+				"ty",
+				"typingText"
+			],
+			[
+				"GO",
+				"GOOGLE_SECRET_ID"
+			],
+			[
+				"success",
+				"successful"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"find",
+				"findAvgRating"
+			],
+			[
+				"im",
+				"imgsrc"
+			],
+			[
+				"imga",
+				"images"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 128.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"form\t",
+				"Snippet: Formatted Message"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax  js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"settings ",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"jvasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"es6",
+				"Snippet: ES6 Arrow Function"
+			],
+			[
+				"set s",
+				"Snippet: ES6 Template String"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"j",
+				"Set Syntax: JSX"
+			],
+			[
+				"babel",
+				"Preferences: Babel – User"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"GitGutter: Goto Previous Change"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Track Remote Branch"
+			],
+			[
+				" git merg",
+				"Git: Merge Branch"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"npm",
+				"NPM: Install All Modules"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package Control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 542.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"ls",
+			"git add .",
+			"git ",
+			"cd .."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ashvin/Desktop/temp/stickmatic/stickmatic",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/layouts/_flash.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/layouts/application.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/assets/stylesheets/custom.css.scss",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/layouts/_navigation.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/magnet/gallery.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/devise/shared/_links.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/Gemfile",
+		"/home/ashvin/Desktop/temp/stickmate/config/database.yml",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/checkout/index.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/log/development.log",
+		"/home/ashvin/Desktop/temp/stickmate/config/routes.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/magnet_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/models/store.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/models/user.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/application_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/application.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/callbacks_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/devise/sessions/new.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/checkout_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/checkout/new.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612111247_create_stores.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/models/image.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612080601_delete_images.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612081023_add_foreign_key_image.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/schema.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612081922_delete_image.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612081643_create_images.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180612071934_create_images.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/landing_page_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/omniauth.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/mangnet/gallery.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/images_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/images/new.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/images/show.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/app/uploaders/image_uploader.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/carrier_wave.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/InstagramApi.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/assets/javascripts/fetcher.js",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180610200915_change_email_password.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/devise.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/session_store.rb",
+		"/home/ashvin/Downloads/client_id (2).json",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180608115025_add_uid_first_last.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/user/auth.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/Instagram.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/controllers/user_controller.rb",
+		"/home/ashvin/Desktop/temp/stickmate/db/development.sqlite3",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180607104613_create_users.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/models/article.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/assets/javascripts/application.js",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180607102849_add_devise_to_users.rb",
+		"/home/ashvin/Desktop/temp/stickmate/app/views/users/auth.html.erb",
+		"/home/ashvin/Desktop/temp/stickmate/db/migrate/20180607090724_create_users.rb",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/[dir",
+		"/home/ashvin/Desktop/temp/stickmate/config/initializers/[path",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/pages/about.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/assets/stylesheets/application.css",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/assets/stylesheets/custom.css.scss",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/layouts/application.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/layouts/_navigation.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/layouts/_messages.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/articles/_form.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/models/user.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/controllers/articles_controller.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/Gemfile",
+		"/home/ashvin/Desktop/temp/alpha-blog/config/routes.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/controllers/users_controller.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/users/new.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/db/migrate/20180606103508_create_users.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/db/migrate/20180606105024_add_user_id_to_articles.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/articles/new.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/db/migrate/20180606111614_add_password_digest_to_users.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/pages/home.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/controllers/pages_controller.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/db/migrate/20180606070837_add_description_to_articles.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/articles/index.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/articles/edit.html.erb",
+		"/home/ashvin/Desktop/temp/alpha-blog/db/migrate/20180606070338_create_articles.rb",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/assets/javascripts/application.js",
+		"/home/ashvin/Desktop/temp/alpha-blog/app/views/articles/show.html.erb",
+		"/home/ashvin/Desktop/projects/rails_test_project/alpha-blog/db/development.sqlite3",
+		"/home/ashvin/Desktop/projects/rails_test_project/alpha-blog/app/models/article.rb",
+		"/home/ashvin/Desktop/projects/rails_test_project/alpha-blog/Gemfile",
+		"/home/ashvin/Desktop/projects/rails_test_project/alpha-blog/config/routes.rb",
+		"/home/ashvin/Desktop/projects/rails_test_project/alpha-blog/tmp/pids/server.pid",
+		"/home/ashvin/Desktop/projects/rails_test_project/test_app/app/views/layouts/welcome/home.html.erb",
+		"/home/ashvin/Desktop/projects/section2_project/user.rb",
+		"/home/ashvin/Desktop/projects/section2_project/permissions.json",
+		"/home/ashvin/environment/toy_app/app/controllers/application_controller.rb",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/app.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/package.json",
+		"/home/ashvin/Desktop/projects/keylog.io/bin/index.js",
+		"/home/ashvin/Desktop/projects/keylog.io/lib/demo/index.html",
+		"/home/ashvin/Desktop/projects/keylog.io/src/app/header/header.component.html",
+		"/home/ashvin/Desktop/projects/keylog.io/src/app/header/header.component.ts",
+		"/home/ashvin/Desktop/projects/keylog.io/src/app/app.component.ts",
+		"/home/ashvin/Desktop/projects/keylog.io/src/app/header/header.component.spec.ts",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/actions/customers.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/routes/clients/show.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/preact.config.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/components/DataPanel/index.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/components/client_show",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/routes/clients/index.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/components/DataFilters/index.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/components/pagination/LinkCollection.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/components/DataWrapper/index.js",
+		"/home/ashvin/Desktop/projects/flowboard-frontend/src/index.js",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/csv_generator.js",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/scrape.js",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/extractor.js",
+		"/home/ashvin/environment/hello_app/app/controllers/application_controller.rb",
+		"/home/ashvin/environment/toy_app/app/controllers/users_controller.rb",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/pagination.js",
+		"/home/ashvin/environment/hello_app/config/routes.rb",
+		"/home/ashvin/environment/hello_app/config/routes.r",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/users.csv",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/users.json",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/excel_generator",
+		"/home/ashvin/Desktop/projects/aihutoa-scrapper/excel_generator.js",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/backend/controllers/adminProtected.js",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/ApiMiddleware/api/getOrderService.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/components/authComponents/Signup.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/Routes.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/components/singleProduce.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/components/myOrders.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/components/LandingPage.jsx",
+		"/home/ashvin/Desktop/projects/SmartIndiaHackathon/web/src/js/components/mainItemsPage.jsx"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 223.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stickmatic.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"ser",
+				"tmp/pids/server.pid"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"pack",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 855.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

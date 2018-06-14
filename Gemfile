@@ -5,6 +5,7 @@ require 'net/http'
 gem 'rails', '4.2.9'
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
+
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.3.7'
 
@@ -25,6 +26,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
+
+gem 'simple_form'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
@@ -60,5 +63,5 @@ end
 group :production do
   gem 'pg'
   gem 'rails_12factor'
-  
+
 end

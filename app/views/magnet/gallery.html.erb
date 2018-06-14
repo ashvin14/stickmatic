@@ -1,20 +1,20 @@
-<h1> choose from one of your instagram collection  </h1>
-
-  
-<div class="row">
-<%= form_tag("/upload",method:"post") do |f,index| %>
-  <% @response.each do |imageData| %>
-    <div class="col-xs-6 col-md-3">
-      <a  class="thumbnail">
-          <%= image_tag(imageData["url"] , size:"150")%>
-          <%= check_box("user","selected_image_id",{:multiple=>true},imageData["id"]) %>
-      </a>
+<div class="well center">
+    <h4> choose from  your instagram collection  </h4>
+    <div class="row">
+        <%= form_tag("/upload",method:"post") do |f,index| %>
+            <div class="row instagram-frame">
+                <% @response.each do |imageData| %>
+                    <div class="single-image">
+                        <%= image_tag(imageData["url"] , size:"150",class:"img-rounded")
+                                %>
+                            <%= check_box("user","selected_image_id",{:multiple=>true},imageData["id"])
+                                 %>
+                    </div>
+                    <% end %>
+            </div>
+            <div class="row">
+                <%= submit_tag "Done",data: { disable_with: "Please wait.." } ,class:"btn btn-lg btn-success"%>
+            </div>
+            <% end %>
     </div>
-   
-  
-
-  <% end %> 
-  <%= submit_tag "Done",data: { disable_with: "Please wait.." } %>  
-<% end %>
-</div>
-
+</div>  
